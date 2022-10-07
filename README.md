@@ -2,7 +2,7 @@
 #### I am Font End Web Developer.
 ![I am Font End Web Developer.](https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-1/293213840_554768236379225_5965568060412357673_n.jpg?stp=dst-jpg_p240x240&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFKA2fRk1teIu908RsVxlOHBpipXKhzQOEGmKlcqHNA4Snx4uH68VL3QQtoAElxsUNm0EwNGlFfOS8IMzA3TMCh&_nc_ohc=LC4bnON--dUAX83_9jb&_nc_ht=scontent.fjsr12-1.fna&oh=00_AT8CH_MmjlxHBKLFgFSWEmLiv_zFMf2-yGaYFtt4CER2IQ&oe=6346495C)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills:  HTML / CSS/BOOTSTRAP/JS
 
