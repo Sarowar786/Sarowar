@@ -4,10 +4,10 @@
 
 
 
-Skills:  HTML / CSS/BOOTSTRAP/JS
+Skills:  HTML / CSS / BOOTSTRAP / JS / MERN STACK
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning MERN Stack web development.
 - 💬 Ask me about Web Design 
 
 
